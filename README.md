@@ -1,2 +1,2 @@
 # hello-world
-Just a test repository
+Getting to know github running through the 'hello-world' example.
